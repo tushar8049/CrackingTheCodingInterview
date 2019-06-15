@@ -30,7 +30,7 @@ public class Problem_01 {
     }
 
     /**
-     * Looked Out Solution!
+     * Looked Up Solution!
      */
     public static boolean isUniqueCharacter_1(String str){
         boolean[] check = new boolean[128];
