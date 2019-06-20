@@ -2,7 +2,7 @@
 
 
 
-##### Fun programming
+<h5>Fun programming<h5>
 
 Learning Data Structures and Algorithms in order to develop Logical and Analytical Thinking by solving <code>189</code> problems from all different zones.
 
