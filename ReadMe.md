@@ -1,8 +1,8 @@
-#Cracking the Coding Interview
+# Cracking the Coding Interview
 
 
 
-#####Fun programming
+##### Fun programming
 
 Learning Data Structures and Algorithms in order to develop Logical and Analytical Thinking by solving <code>189</code> problems from all different zones.
 
@@ -15,7 +15,7 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 [![LinkedIN chat](https://img.shields.io/badge/Chat-On_LinkedIN-0077B5.svg)](https://linkedin.com/in/tushargonawala) 
 
 
-#####Topics of Coverage
+##### Topics of Coverage
 
           
   
