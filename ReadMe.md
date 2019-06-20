@@ -1,15 +1,10 @@
-<h1>Cracking the Coding Interview </h1>
+<h1 align="center">Cracking the Coding Interview </h1>
 
-<h2>Fun programming</h2>
-<h3>Fun programming</h3>
-<h4>Fun programming</h4>
-<h5>Fun programming</h5>
-<h6>Fun programming</h6>
-
-<p>
+<h5 align="center">Fun programming</h5>
+<p align="center">
 Learning Data Structures and Algorithms in order to develop Logical and Analytical Thinking by solving <code>189</code> problems from all different zones.
 </p>
-
+<div align="center">
 
 [![Problems](https://img.shields.io/static/v1.svg?label=Problems&message=%208%20&color=orange)](https://github.com/tushar8049/CrackingTheCodingInterview) 
 [![Programming Language](https://img.shields.io/static/v1.svg?label=Programming%20Language&message=%20JAVA%20&color=yellow)]()
@@ -18,14 +13,9 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 [![LinkedIN chat](https://img.shields.io/badge/Chat-On_LinkedIN-0077B5.svg)](https://linkedin.com/in/tushargonawala) 
 
 
-<div>
-<img src="https://img.shields.io/static/v1.svg?label=Problems&message=%208%20&color=orange">
-</div>
 
-<br>
-Topics of Coverage
-
-          
+<h5 align="center"> Topics of Coverage </h5>
+<div align="center">
   
   ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Arrays%20&color=blue) 
   ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Strings%20&color=blue) 
@@ -48,3 +38,4 @@ Topics of Coverage
   ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Sorting%20&color=blue) 
   ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Searching%20&color=blue) 
 
+</div>
