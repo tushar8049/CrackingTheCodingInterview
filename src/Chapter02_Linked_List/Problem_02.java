@@ -2,6 +2,11 @@ package Chapter02_Linked_List;
 
 import CTCI_Libraries.LinkedListNode;
 
+/**
+ * Problem 2: Return Kth to Last
+ * Implement an algorithm to find the kth to last element of a singly linked list
+ */
+
 public class Problem_02 {
     public static void main(String[] arg){
         LinkedListNode head = new LinkedListNode(1);
