@@ -1,5 +1,6 @@
 package CTCI_Libraries;
 
+import java.util.HashSet;
 import java.util.Random;
 
 public class LinkedListNode {
@@ -24,6 +25,15 @@ public class LinkedListNode {
         }
     }
 
+    public static int length(LinkedListNode runner){
+        int count = 0;
+        while(runner!=null){
+            count++;
+            runner = runner.next;
+        }
+        return count;
+    }
+
     public static void makeLinkedList(LinkedListNode head, int[] sequence){
         LinkedListNode list = head;
         for(int s: sequence){
@@ -40,6 +50,47 @@ public class LinkedListNode {
             list = list.next;
         }
     }
+
+    public static HashSet<Integer> makeRandomUniqueLinkedList(LinkedListNode head, int number, int min, int max){
+
+        if( Math.abs(max - min) < number )
+            return new HashSet<>();
+
+        Random r = new Random();
+        LinkedListNode list = head;
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int i = 0; i < number; i++ ){
+            int value;
+            while(true){
+                value = r.nextInt((max-min)+1) + min;
+                if(!set.contains(value)){
+                    set.add(value);
+                    break;
+                }
+            }
+            list.next = new LinkedListNode( value );
+            list = list.next;
+        }
+        return set;
+    }
+
+    public static LinkedListNode reverseLinkedList(LinkedListNode head){
+        LinkedListNode current = head;
+        LinkedListNode previous = null;
+        LinkedListNode next = null;
+
+        while(current != null){
+
+            next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
+
+        }
+        return previous;
+    }
+
 
 
 }
