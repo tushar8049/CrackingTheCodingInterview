@@ -91,6 +91,14 @@ public class LinkedListNode {
         return previous;
     }
 
+    public static LinkedListNode getLastNode(LinkedListNode node){
+        if(node == null)
+            return null;
+        while(node.next != null)
+            node = node.next;
+
+        return node;
+    }
 
 
 }
