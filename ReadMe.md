@@ -54,27 +54,52 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 
 <table>
   <tr>
-    <th>Problem Number</th>
+    <th>Problem #</th>
     <th>Problem Name</th>
+    <th>Status</th>
   </tr>
   <tr>
-    <td colspan="2" align="center">Chapter 2</td>
-  </tr>
-  <tr>
-    <td>2.1</td>
-    <td>Remove Dumps</td>
+    <td colspan="3" align="center"><b>Chapter 2<b></td>
   </tr>
   <tr>
     <td>2.1</td>
     <td>Remove Dumps</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
   </tr>
   <tr>
-    <td>2.1</td>
-    <td>Remove Dumps</td>
+    <td>2.2</td>
+    <td>Return Kth to Last</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
   </tr>
   <tr>
-    <td>2.1</td>
-    <td>Remove Dumps</td>
+    <td>2.3</td>
+    <td>Delete Middle Node</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
+  </tr>
+  <tr>
+    <td>2.4</td>
+    <td>Partition</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Incomplete%20&color=red"> </td>
+  </tr>
+  <tr>
+    <td>2.5</td>
+    <td>Sum Lists</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
+  </tr>
+  <tr>
+    <td>2.6</td>
+    <td>Palindrome</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
+  </tr>
+  <tr>
+    <td>2.7</td>
+    <td>Intersection</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
+  </tr>
+  <tr>
+    <td>2.8</td>
+    <td>Loop Detection</td>
+    <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
   </tr>
   
   
