@@ -1,3 +1,4 @@
+<navbar></navbar>
 <h2 align="center">Fun programming</h2>
 
 <p align="center">
