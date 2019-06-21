@@ -59,7 +59,7 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
     <th>Status</th>
   </tr>
   <tr>
-    <td colspan="3" align="center"><b>Chapter 2<b></td>
+    <td colspan="3" align="center"><b>Chapter 2</b></td>
   </tr>
   <tr>
     <td>2.1</td>
@@ -101,10 +101,6 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
     <td>Loop Detection</td>
     <td> <img src="https://img.shields.io/static/v1.svg?label=&message=%20Done%20&color=green"> </td>
   </tr>
-  
-  
- 
-    
  </table>
 
 </div>
