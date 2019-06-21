@@ -1,11 +1,4 @@
-<navbar></navbar>
-<h2 align="center">Fun programming</h2>
-
-<p align="center">
-Learning Data Structures and Algorithms in order to develop Logical and Analytical Thinking by solving <code>189</code> problems from all different zones.
-</p>
-
-<div align="center">
+<div align="right">
 
 <a href="https://github.com/tushar8049/CrackingTheCodingInterview">
 <img src="https://img.shields.io/static/v1.svg?label=Problems&message=%208%20&color=orange"> 
@@ -25,8 +18,13 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 
 </div>
 
-<h2 align="center"> Topics of Coverage </h2>
-<div align="center">
+<p>
+Learning Data Structures and Algorithms in order to develop Logical and Analytical Thinking by solving <code>189</code> problems from all different zones.
+</p>
+
+
+<h2 align=""> Topics of Coverage </h2>
+<div align="">
 
   <img src="https://img.shields.io/static/v1.svg?label=&message=%20Arrays%20&color=blue">
   <img src="https://img.shields.io/static/v1.svg?label=&message=%20Strings%20&color=blue">
@@ -49,8 +47,8 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 
 </div>
 
-<h2 align="center"> Problems</h2>
-<div align="center">
+<h2 align=""> Problems</h2>
+<div align="">
 
 <table>
   <tr>
