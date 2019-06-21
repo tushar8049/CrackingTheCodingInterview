@@ -26,26 +26,24 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 
 <h2 align="center"> Topics of Coverage </h2>
 <div align="center">
-  
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Arrays%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Strings%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Linked%20List%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20HashMap%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20HashSet%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Stacks%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Queues%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Trees%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Graphs%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Binary%20Heaps%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Tries%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Bit%20Manipulation%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Math%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Logic%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Algorithms%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Recursions%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Dynamic%20Programming%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Memoization%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Sorting%20&color=blue) 
-  ![Topics](https://img.shields.io/static/v1.svg?label=&message=%20Searching%20&color=blue) 
+
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Arrays%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Strings%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20HashMaps%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20HashSets%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Stacks%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Queues%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Trees%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Graphs%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Binary%20Heaps%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Tries%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Bit%20Manipulation%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Math%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Logic%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Algorithms%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Dynamic%20Programming%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Memoization%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Sorting%20&color=blue">
+  <img src="https://img.shields.io/static/v1.svg?label=&message=%20Searching%20&color=blue">
 
 </div>
