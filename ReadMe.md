@@ -48,7 +48,7 @@ Learning Data Structures and Algorithms in order to develop Logical and Analytic
 </div>
 
 <h2 align=""> Problems</h2>
-<div align="    ">
+<div align="        ">
 
 <table>
   <tr>
