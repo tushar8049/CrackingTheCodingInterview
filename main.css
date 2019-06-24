@@ -1,11 +1,14 @@
 .page-header {
     color: #fff;
     text-align: center;
+    padding-bottom: 7rem;
+    padding-top: 7rem;
+
+}
+
+.section-background{
     background-color: #159957;
     background-image: linear-gradient(120deg, #155799, #159957);
-    padding-bottom: 5rem;
-    padding-top: 5rem;
-
 }
 
 body{
@@ -13,8 +16,83 @@ body{
     font-size: 16px;
     line-height: 1.5;
     color: #606c71;
+    text-align: center;
 }
 
 .active{
     text-color: #159957 !important;
+}
+
+.connect-icon{
+    color: white;
+    font-size: 2rem;
+}
+
+.connect-section{
+    padding-bottom: 1.5rem;
+    padding-right: 1rem;
+}
+
+.module{
+    padding-top: 1.5rem;
+}
+
+.page-footer{
+    text-align: center;
+    color: white;
+    padding-top: 1.2rem;
+    padding-bottom: 0.8rem;
+}
+
+.card-header{
+    font-weight: bolder;
+}
+
+.table-section{
+    width: 100%;
+}
+
+tr{
+    border-top: 1px solid darkgrey;
+    border-bottom: 1px solid darkgrey;
+    line-height: 2.0rem;
+}
+
+tr:nth-child(odd){
+    background: #ebebeb;
+}
+
+td:nth-child(3){
+    width: 20%;
+    text-align: center;
+}
+
+th:nth-child(3){
+    width: 20%;
+    text-align: center;
+}
+
+.chapter-row{
+    background-color: #159957 !important;
+    background-image: linear-gradient(120deg, #155799, #159957) !important;
+    color: white;
+}
+
+.chapter-row:hover{
+    background-color: #159957 !important;
+    background-image: linear-gradient(120deg, #155799, #159957) !important;
+    color: white;
+}
+
+td:nth-child(1){
+    width: 20%;
+    text-align: center;
+}
+
+th:nth-child(1){
+    width: 20%;
+    text-align: center;
+}
+tr:hover{
+    background: rgba(21,153,87, 0.2) !important;
 }
