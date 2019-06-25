@@ -2,8 +2,6 @@ package Chapter03_Stacks_and_Queues;
 
 import CTCI_Libraries.MyQueue;
 
-import java.util.LinkedList;
-
 /**
  * Problem 6: Animal Shelter
  * An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first out" basis.
@@ -44,7 +42,8 @@ public class Problem_06 {
         }
 
         public String dequeueAny(){
-            return remover();
+            String temp = remover();
+            return temp == null ? "No Animal Found" : temp;
         }
 
         public String dequeueAnimal(String animal){
