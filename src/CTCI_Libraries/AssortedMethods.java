@@ -67,6 +67,13 @@ public class AssortedMethods {
     }
 
 
+    public static void printStack(Stack<Integer> stack){
+        while(!stack.isEmpty()){
+            System.out.print(" -> " + stack.pop());
+        }
+
+    }
+
 //
 //    public static LinkedListNode randomLinkedList(int N, int min, int max) {
 //        LinkedListNode root = new LinkedListNode(randomIntInRange(min, max), null, null);
