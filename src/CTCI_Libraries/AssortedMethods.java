@@ -1,10 +1,7 @@
 package CTCI_Libraries;
 
 import java.util.*;
-
 import java.awt.*;
-
-
 
 public class AssortedMethods {
 
@@ -12,25 +9,17 @@ public class AssortedMethods {
         return (int) (Math.random() * n);
     }
 
-
-
     public static int randomIntInRange(int min, int max) {
         return randomInt(max + 1 - min) + min;
     }
-
-
 
     public static boolean randomBoolean() {
         return randomIntInRange(0, 1) == 0;
     }
 
-
-
     public static boolean randomBoolean(int percentTrue) {
         return randomIntInRange(1, 100) <= percentTrue;
     }
-
-
 
     public static boolean[][] randomBooleanMatrix(int M, int N, int percentTrue) {
         boolean[][] matrix = new boolean[M][N];
@@ -42,8 +31,6 @@ public class AssortedMethods {
         return matrix;
     }
 
-
-
     public static int[][] randomMatrix(int M, int N, int min, int max) {
         int[][] matrix = new int[M][N];
         for (int i = 0; i < M; i++) {
@@ -54,10 +41,6 @@ public class AssortedMethods {
         return matrix;
     }
 
-
-
-
-
     public static int[] randomArray(int N, int min, int max) {
         int[] array = new int[N];
         for (int j = 0; j < N; j++) {
@@ -65,7 +48,6 @@ public class AssortedMethods {
         }
         return array;
     }
-
 
     public static void printStack(Stack<Integer> stack){
         while(!stack.isEmpty()){
@@ -121,8 +103,6 @@ public class AssortedMethods {
         return arrayToString(array, 0, array.length - 1);
     }
 
-
-
     public static String arrayToString(int[] array, int start, int end) {
         StringBuilder sb = new StringBuilder();
         for (int i = start; i <= end; i++) {
@@ -132,8 +112,6 @@ public class AssortedMethods {
         return sb.toString();
     }
 
-
-
     public static String stringArrayToString(String[] array) {
         StringBuilder sb = new StringBuilder();
         for (String v : array) {
@@ -141,8 +119,6 @@ public class AssortedMethods {
         }
         return sb.toString();
     }
-
-
 
     public static String toFullBinaryString(int a) {
         String s = "";

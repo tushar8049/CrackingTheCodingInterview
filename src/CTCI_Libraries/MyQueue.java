@@ -1,11 +1,21 @@
 package CTCI_Libraries;
 
 public class MyQueue<T> {
-    private class QueueNode<T>{
+    public class QueueNode<T>{
         private T data;
         private QueueNode<T> next;
         public QueueNode(T data){
             this.data = data;
+        }
+        public T getData(){
+            return this.data;
+        }
+        public QueueNode<T> getNext(){
+            return this.next;
+        }
+
+        public void setNext(QueueNode<T> next) {
+            this.next = next;
         }
     }
 
@@ -56,6 +66,10 @@ public class MyQueue<T> {
 
     public int size(){
         return this.count;
+    }
+
+    public QueueNode<T> getFirst(){
+        return this.first;
     }
 
 }
