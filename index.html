@@ -6,9 +6,11 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         <script src="https://kit.fontawesome.com/09879597be.js"></script>
+        <script src="main.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Carter+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
@@ -250,6 +252,75 @@
         </div>
 
 
+        <!-- Methods Use -->
+        <div class="container-fluid module">
+            <div class="row ">
+                <div class="col-md-2 hidden-sm hidden-xs"></div>
+                <div class="col-md-8 col-sm-12 col-xs-12">
+                    <div class="card">
+                        <h5 class="card-header"><b>Helpful CTCI Libraries</b></h5>
+                        <div class="card-body">
+                            <h5 class="card-title">AssortedMethods</h5>
+
+                            <div class="method-tab">
+                                <code>
+                                    <span class="comments">//Generate Random Integer from 0 to n</span>
+                                    <br>
+                                    <span class="code"> > int randomInt(int n)</span>
+                                </code>
+                            </div>
+
+                            <div class="method-tab">
+                                <code>
+                                    <span class="comments">//Generate Random Integer from min to max</span>
+                                    <br>
+                                    <span class="code"> > int randomIntInRange(int min, int max)</span>
+                                </code>
+                            </div>
+
+                            <div class="method-tab">
+                                <code>
+                                    <span class="comments">//Generate Random Boolean value</span>
+                                    <br>
+                                    <span class="code"> > boolean randomBoolean()</span>
+                                </code>
+                            </div>
+                            <div class="method-tab" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
+                                <code>
+                                    <span class="comments">//Generate Random Boolean value with probability of being True</span>
+                                    <br>
+                                    <span class="code"> > boolean randomBoolean(int percentTrue)</span>
+                                </code>
+                            </div>
+                            <div class="method-tab">
+                                <code>
+                                    <span class="comments">//Generate Random Boolean Matrix of Size M * N and Probability of being True</span>
+                                    <br>
+                                    <span class="code"> > boolean[][] randomBooleanMatrix(int M, int N, int percentTrue)</span>
+                                </code>
+                            </div>
+                            <div class="method-tab">
+                                <code>
+                                    <span class="comments">//Generate Random Matrix of size M * N with values in range min & max</span>
+                                    <br>
+                                    <span class="code"> > int[][] randomMatrix(int M, int N, int min, int max)</span>
+                                </code>
+                            </div>
+                            <div class="method-tab">
+                                <code>
+                                    <span class="comments">//Generate Random Array of Size N with values in range min & max</span>
+                                    <br>
+                                    <span class="code"> > int[] randomArray(int N, int min, int max)</span>
+                                </code>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 hidden-sm hidden-xs"></div>
+            </div>
+        </div>
+
         <div class="container-fluid">
             <div class="row module">
 
@@ -276,11 +347,11 @@
                         </tr>
                     </table>
                 </div>
-                <div class="col-md-6 col-sm-12 col-xs-12 right-footer">
-                    <p>&copy; 2019 Tushar Gonawala. All Rights Reserved</p>
-                </div>
             </div>
-
+            <br>
+            <div class="center-footer">
+                <p>&copy; 2019 Tushar Gonawala. All Rights Reserved</p>
+            </div>
         </div>
     </footer>
 
