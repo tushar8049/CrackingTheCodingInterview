@@ -13,7 +13,7 @@
 
 body{
     font-family: Quicksand !important;
-    font-size: 1.2rem !important;
+    font-size: 1.0rem !important;
 }
 
 .active{
@@ -50,8 +50,8 @@ body{
     padding-right: 1rem;
     padding-left: 1rem;
 }
-.right-footer{
-    text-align: right;
+.center-footer{
+    text-align: center;
 }
 .left-footer{
     text-align: left;
@@ -122,3 +122,17 @@ tr:hover{
     line-height: 1.5rem;
 }
 
+
+.method-tab{
+    margin-bottom: 0.2rem;
+    margin-top: 0.2rem;
+    background: #f0f0f0;
+    border: #b4b4b4 1px solid;
+    border-radius: 0.3rem;
+    padding: 1.0rem;
+    font-family: 'Source Code Pro', monospace !important;
+}
+
+.comments{
+    color: #777777 !important;
+}
